@@ -201,8 +201,8 @@ export function SailingContent() {
           </div>
           <div className="rounded-[6px] border border-border bg-card p-2">
             <img
-              src="/assets/coqui-plaque.png"
-              alt="Coquí frog glyph"
+              src="public/assets/wood-coqui-glyph.png"
+              alt="Coqui frog glyph"
               className="h-56 w-56 rounded-[4px] object-cover"
             />
           </div>

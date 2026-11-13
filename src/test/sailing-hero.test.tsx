@@ -9,7 +9,7 @@ describe("SV Coqui hero", () => {
 
     const cta = screen.getByRole("link", { name: "Follow Along" });
 
-    expect(cta).toHaveAttribute("href", "https://instagram.com/svcoqui");
+    expect(cta).toHaveAttribute("href", "https://instagram.com/meandcoqui");
   });
 
   it("shows the vessel specifications as a labelled readout", () => {

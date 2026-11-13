@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "littlefuzzydinos",
+  "main": ".output/server/index.mjs",
+  "compatibility_date": "2026-11-13",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": ".output/public"
+  },
+  "routes": [
+    {
+      "pattern": "portfolio.littlefuzzydinos.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "sailing.littlefuzzydinos.com",
+      "custom_domain": true
+    }
+  ]
+}
+

@@ -1,14 +1,19 @@
 {
   "currently_reading": [
+        {
+      "title": "The Burning Soul",
+      "author": "John Connolly",
+      "marginalia": "I'm a sucker for dark fiction."
+    },
+    {
+      "title": "Waterway Guide: Southern",
+      "author": "Waterway Guide Media",
+      "marginalia": "Dreaming of sailing away."
+    },
     {
       "title": "El amor en los tiempos del cólera",
       "author": "Gabriel García Márquez",
-      "marginalia": "Reading in Spanish on the Kobo. Slow going, but the prose is worth every page."
-    },
-    {
-      "title": "World Cruising Destinations",
-      "author": "Jimmy Cornell",
-      "marginalia": "Mapping out multi-season routes and weather windows."
+      "marginalia": "I will be reading this forever - just wish the spanish/english dictionary on my kobo was better."
     }
   ]
 }

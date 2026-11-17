@@ -6,9 +6,9 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Mary Franks" },
-      { name: "description", content: "Resilient cloud infrastructure, clean automation, and dependable systems. Based in Florida, operating globally." },
+      { name: "description", content: "Selected infrastructure and platform engineering projects." },
       { property: "og:title", content: "Mary Franks · Site Reliability & Infrastructure Engineer" },
-      { property: "og:description", content: "Resilient cloud infrastructure, clean automation, and dependable systems." },
+      { property: "og:description", content: "Selected infrastructure and platform engineering projects." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
     ],

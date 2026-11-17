@@ -113,7 +113,7 @@ function PortfolioContent() {
           <p className="font-mono text-xs tracking-[0.18em] text-primary uppercase">Site Reliability &amp; Infrastructure Engineer</p>
           <h1 className="mt-3 text-5xl font-medium text-heading md:text-6xl">Mary Franks</h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed font-light">
-            I design and maintain resilient cloud infrastructure that stays up when the weather gets rough—and bounces right back when it doesn't. Modern tooling, clean automation, and resilient systems. Based in Florida, operating globally.
+            I work across development, security, and operations to build internal tooling that teams actually want to use. Good platform work is leaving the guardrails up for developers who just want to ship, but keeping my open for anyone who wants to learn. I believe in cloud infrastructure that stays up when the weather gets rough, but bounces back fast when it doesn't, treating every failure as a learning opportunity.
           </p>
           <a href={LINKS.linkedin} target="_blank" rel="noreferrer" className="mt-8 inline-block rounded-[4px] bg-primary px-6 py-2.5 font-mono text-sm font-medium tracking-wider text-primary-foreground transition-colors hover:bg-primary-hover active:bg-primary-pressed">
             Contact

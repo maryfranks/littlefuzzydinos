@@ -22,6 +22,22 @@ const PROJECTS: Project[] = [
     repo: "https://github.com/maryfranks/the-library",
     demo: "https://library.littlefuzzydinos.com",
   },
+  {
+    title: "Dev Container",
+    description:
+      "A portable, customizable dev environment that dynamically layers dotfiles, profiles, and agent configs at runtime.",
+    stack: ["Shell", "Python", "Docker", "Ansible"],
+    icon: "/assets/anchor.png",
+    repo: "https://github.com/maryfranks/dev-container",
+  },
+  {
+    title: "OTel Collector",
+    description:
+      "Always-Free GCP observability pipeline with Cloudflare Tunnel ingress, Tailscale SSH, and Secret Manager hydration.",
+    stack: ["OpenTofu", "Terraform", "Ansible"],
+    icon: "/assets/spyglass.png",
+    repo: "https://github.com/maryfranks/otel-collector",
+  },
 ];
 
 const BOAT_PHOTOS = [

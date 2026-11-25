@@ -41,8 +41,10 @@ const PROJECTS: Project[] = [
 ];
 
 const BOAT_PHOTOS = [
-  { src: "/assets/boat-1.jpg", caption: "SV Coqui" },
-  { src: "/assets/boat-2.jpg", caption: "SV Coqui" },
+  { src: "/assets/on-c-dock.jpg", caption: "SV Coqui" },
+  { src: "/assets/hammock.jpg", caption: "Marina Life" },
+  { src: "/assets/hauled-out.jpg", caption: "Out of the Water" },
+  { src: "/assets/sunset.jpg", caption: "At Sunset" },
 ];
 
 // Vessel specifications shown in the Sailing hero readout.
